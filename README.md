@@ -1,4 +1,4 @@
-## Oiii eu sou a Palloma Hortencio, Desenvolvedora Web! 👸
+## Oiii eu sou a Palloma Hortencio, Desenvolvedora Web! 🧏
 ### Ainda em aprendizagem 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="palloma-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,7 +11,7 @@
 <hr>
  
 <div> 
-  <p> Entre em contato 📱 </p>
+  <p> Entre em contato 📱 👇 </p>
   <a href="https://api.whatsapp.com/send?phone=5511984454648" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/pallomahort/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:palloma.hortencio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
