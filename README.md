@@ -6,7 +6,6 @@
   <img align="center" alt="palloma-wp" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="palloma-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="palloma-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="right" alt="palloma-desenho" height="40" widht="40" src="https://cdn.discordapp.com/attachments/964320807360806972/971562104266031114/palloma.png">
 </div>
   
 <hr>
@@ -17,8 +16,10 @@
   <a href="https://www.instagram.com/pallomahort/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:palloma.hortencio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/palloma-hortencio-589570210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="palloma-desenho" height="80" widht="80" src="https://cdn.discordapp.com/attachments/964320807360806972/971562104266031114/palloma.png">
   
   <hr>
+  
  
 </div>
 
