@@ -6,7 +6,7 @@
   <img align="center" alt="palloma-wp" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="palloma-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="palloma-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="right" alt="palloma-desenho" src="https://cdn.discordapp.com/attachments/964320807360806972/971562104266031114/palloma.png">
+  <img align="right" alt="palloma-desenho" height="40" widht="40" src="https://cdn.discordapp.com/attachments/964320807360806972/971562104266031114/palloma.png">
 </div>
   
 <hr>
