@@ -18,7 +18,7 @@
 ### Tecnologias 💻
 <br>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html, css, js, php, nodejs, mysql, figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,figma"/>
 </a>
 
 
