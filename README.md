@@ -13,16 +13,19 @@
   
 </div>
 
-### Ainda em aprendizagem 💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="palloma-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="palloma-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="palloma-wp" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="palloma-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="palloma-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=PallomaHortencio&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+
+### Tecnologias 💻
+<br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,figma"/>
+</a>
+
   
 <hr>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
  
 
 <div align="center">
