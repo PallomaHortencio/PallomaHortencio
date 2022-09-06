@@ -26,8 +26,8 @@
   
 <hr>
 
-<img src="../profile-3d-contrib/profile-nigth-rainbow.svg" />
- 
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
 
 <!-- <div align="center">
   <a href="https://github.com/PallomaHortencio">
