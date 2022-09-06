@@ -19,7 +19,7 @@
 ### Tecnologias 💻
 <br>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,php,nodejs,mysql,md,git, github,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,git,php,nodejs,mysql,md,github,figma"/>
 </a>
 
   
