@@ -26,7 +26,7 @@
   
 <hr>
 
-<img src="../profile-3d-contrib/profile-green-animate.svg" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" />
  
 
 <!-- <div align="center">
