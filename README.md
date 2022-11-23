@@ -1,4 +1,4 @@
-## Oiii eu sou a Palloma Hortencio, Desenvolvedora Web! 🧏
+## Oiii eu sou a Palloma Hortencio, Desenvolvedora Front-End! 🧏
 <hr>
 
    ### Entre em contato 📱 👇 
