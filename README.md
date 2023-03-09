@@ -16,7 +16,7 @@
 
  ### Veja meu projetos em 👇
  <br>
-<a href="[https://skillicons.dev](https://app.netlify.com/teams/pallomahortencio/sites)">
+<a href="https://app.netlify.com/teams/pallomahortencio/sites">
 <img src="https://skillicons.dev/icons?i=netlify"/>
 </a>
 
