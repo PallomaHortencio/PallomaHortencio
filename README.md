@@ -14,7 +14,7 @@
   
 </div>
 
- ### Veja meu projetos em 👇
+ ### Veja meus projetos em 👇
  <br>
 <a href="https://app.netlify.com/teams/pallomahortencio/sites">
 <img src="https://skillicons.dev/icons?i=netlify"/>
