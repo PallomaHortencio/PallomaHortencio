@@ -14,6 +14,9 @@
   
 </div>
 
+ ### Veja meu projetos em 👇
+ <br>
+<a href="https://app.netlify.com/teams/pallomahortencio/sites"> 
 
 <img src="https://github-profile-trophy.vercel.app/?username=PallomaHortencio&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 
